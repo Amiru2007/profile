@@ -21,3 +21,5 @@ https://github.com/Amiru2007/Taxila-Central-College-Website-2
 
 Challenge me on Chess.com,
 https://friend.chess.com/AfFi
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
